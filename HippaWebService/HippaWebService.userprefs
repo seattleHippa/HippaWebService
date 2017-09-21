@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{59607E77-BE7B-4482-9C25-FE67920E8926}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/AccountController.cs">
+    <Files>
+      <File FileName="App_Start/WebApiConfig.cs" Line="31" Column="1" />
+      <File FileName="Controllers/AccountController.cs" Line="25" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HippaWebService" expanded="True">
+            <Node name="HippaWebService" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="App_Start" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="AccountController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.HippaWebService PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

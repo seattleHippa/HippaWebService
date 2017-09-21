@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{59607E77-BE7B-4482-9C25-FE67920E8926}|">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HippaWebService" expanded="True">
+            <Node name="HippaWebService" expanded="True">
+              <Node name="App_Start" expanded="True" />
+              <Node name="Scripts" expanded="True" />
+              <Node name="Views" expanded="True" />
+              <Node name="Global.asax" expanded="True" />
+              <Node name="Web.config" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.HippaWebService PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
