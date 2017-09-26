@@ -85,6 +85,5 @@ C:\HIPPA_SPACE\WEB_SERVICE_REPO\HippaWebService\HippaWebService\bin\Microsoft.Ow
 C:\HIPPA_SPACE\WEB_SERVICE_REPO\HippaWebService\HippaWebService\bin\Microsoft.Owin.Security.Twitter.xml
 C:\HIPPA_SPACE\WEB_SERVICE_REPO\HippaWebService\HippaWebService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\HIPPA_SPACE\WEB_SERVICE_REPO\HippaWebService\HippaWebService\bin\System.Web.Http.Owin.xml
-C:\HIPPA_SPACE\WEB_SERVICE_REPO\HippaWebService\HippaWebService\obj\Debug\HippaWebService.csprojResolveAssemblyReference.cache
 C:\HIPPA_SPACE\WEB_SERVICE_REPO\HippaWebService\HippaWebService\obj\Debug\HippaWebService.dll
 C:\HIPPA_SPACE\WEB_SERVICE_REPO\HippaWebService\HippaWebService\obj\Debug\HippaWebService.pdb
