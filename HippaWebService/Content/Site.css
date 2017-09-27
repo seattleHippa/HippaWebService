@@ -1,6 +1,12 @@
 ﻿body {
     padding-top: 50px;
     padding-bottom: 20px;
+    font-family:'MS Gothic';
+    background: linear-gradient(135deg, rgba(242,246,248,1) 0%, rgba(181,198,208,1) 9%, rgba(216,225,231,1) 37%, rgba(224,239,249,1) 100%);
+}
+
+.h1 {
+    font-size:x-large;
 }
 
 /* Set padding to keep content from hitting the edges */
